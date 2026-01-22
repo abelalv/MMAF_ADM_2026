@@ -4,10 +4,10 @@ root: intro.md
 parts:
   - caption: Sección 1
     chapters:
-    - file: seccion1/reto_1.ipynb
-    - file: seccion1/taller_1.md
-    - file: seccion1/herramientas_python_1.ipynb
-    - file: seccion1/videos_1.md
+    - file: section01/reto_1_adm.ipynb
+    - file: section01/taller_1.md
+    - file: section01/herramientas_python_1.ipynb
+    - file: section01/videos_1.md
   - caption: Retos
     chapters:
     - file: exercises.md
