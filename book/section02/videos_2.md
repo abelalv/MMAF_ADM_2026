@@ -4,7 +4,7 @@
 ````
 
 ### Expresiones racionales y radicales
-```{video} https://https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbce3cd4-9030-4cc6-9c72-b34c00d3df19
+```{video} https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbce3cd4-9030-4cc6-9c72-b34c00d3df19
 ```
 
 ### soluciones de ecucaciones y cálcculo de volumenes
