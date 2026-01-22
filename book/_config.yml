@@ -39,7 +39,7 @@ sphinx:
         image_dark: TeachBooks_logo_inverted.svg
       
       # REEMPLAZA estas URLs con las de tu repositorio real
-      repository_url: "https://github.com/Judival30/MMAF_ADM_2026" 
+      repository_url: "https://github.com/abelalv/MMAF_ADM_2026" 
       path_to_docs: "book"
       repository_branch: "main"
       
