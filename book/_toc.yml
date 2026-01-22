@@ -7,7 +7,7 @@ parts:
     - file: section01/reto_1_adm.ipynb
     - file: section01/taller_1.md
     - file: section01/videos_1.md
-    - caption: Sección 1
+    - caption: Sección 2
   - chapters:
     - file: section02/reto_2_adm.ipynb
     - file: section02/taller_2.md
