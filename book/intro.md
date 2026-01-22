@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Bienvenidos al curso
 
-_This is the first page the student will see when opening the url._
+_Modelos Matemáticos Aplicados: Fundamentos (Pontificia Universidad Javeriana)_
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Este recurso tiene como intención, servir de apoyo en el proceso de aprendizaje de los estudiantes para este curso introductorio de Matemáticas Universitarias, presentando videos, ejercicios y actividades computacionales que permitan fortalecer los conocimientos adquiridos durante las clases.
