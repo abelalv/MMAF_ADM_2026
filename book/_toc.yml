@@ -10,7 +10,7 @@ parts:
 
   - caption: Sección 2
     chapters:
-    - file: section02/reto_2_adm
+    - file: section02/reto_1_adm
     - file: section02/taller_2
     - file: section02/videos_2
 
