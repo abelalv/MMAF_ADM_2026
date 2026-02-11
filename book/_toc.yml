@@ -13,9 +13,10 @@ parts:
     - file: section02/reto_1_adm
     - file: section02/MMAF_taller_2
     - file: section02/videos_2
-    - caption: Sección 2
+  
+  - caption: Sección 3
     chapters:
-    - file: section03/ MMAF_actividad_3
+    - file: section03/MMAF_actividad_3
     - file: section03/taller_3
     - file: section03/videos_3
 
